@@ -1,0 +1,19 @@
+{
+  "name": "Winnersbet",
+  "short_name": "Winnersbet",
+  "theme_color": "",
+  "background_color": "#27113C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770124808-android-chrome-192x192.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

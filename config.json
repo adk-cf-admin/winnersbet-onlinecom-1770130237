@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#27113C",
+            "lang-select-color": "#222829",
+            "bg-light": "#27113C",
+            "welcome-bonus-bg": "#27113C",
+            "top-games-hover-fg": "#d6be0a",
+            "main-bg": "#411C63",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#d6be0a",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#d6330a",
+            "yellow": "#d6be0a",
+            "yellow-button": "#FDFDFD",
+            "button-text": "#ffffff",
+            "main-button-text": "#27113C",
+            "border-color": "#efefdc",
+            "casino-cards": "#27113C",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#75757a",
+            "providers-back": "#27113C",
+            "faq-label": "#27113C",
+            "bg-footer": "#27113C",
+            "copyright": "#e7e7d5",
+            "starColor": "#d6be0a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2524"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2528",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Winnersbet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2529",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Winnersbet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Winnersbet",
+                    "title": "Winnersbet: Welcome bonus up to $200 + 100 FS, tournaments & jackpots",
+                    "description": "Play at Winnersbet Casino with slots, roulette, blackjack, and live casino action. Claim a welcome bonus up to $200 + 100 free spins, join tournaments with prizes up to $50,000, and enjoy smooth, fast withdrawals of your winnings.",
+                    "canonical": "winnersbet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2523",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "winnersbet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2530"
+                },
+                "hero": {
+                    "title": "Winnersbet — bonuses, slots, live games and fast payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2522",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2531",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "1,000+ games: slots, live, tables",
+                        "Frequent free spins and game promos",
+                        "Welcome offer up to 200 + 100FS",
+                        "Jackpots and big wins daily",
+                        "Fast payouts via popular methods",
+                        "Slot tournaments with prize pools up to $50,000",
+                        "24\/7 support via chat, email"
+                    ],
+                    "advantagesAfterText": "At our casino, we focus on player value: strong bonuses, regular promos, and a broad game selection. We keep the experience smooth, quick, and easy to navigate, with clear offers designed to help you play confidently and chase bigger wins.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Winnersbet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2532",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Winnersbet App",
+                    "mobileGooglePlayImageTitle": "Winnersbet App",
+                    "mobileIosImageTitle": "Winnersbet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Winnersbet",
+                        "description1": "We stand out with frequent game-focused promos and ongoing tournaments. We keep promos easy to join and payouts straightforward, so you can move from play to winnings faster.\n",
+                        "items": [
+                            "Wins up to $50,000 daily.",
+                            "100% bonus up to $200.",
+                            "Jackpots up to $1,000,000+."
+                        ],
+                        "description2": "Our casino is built for players who want excitement and real value from every session. We’ve curated a modern mix of slots, table games, and live formats so you can choose a play style that matches your mood. The lobby highlights fan favourites and fresh releases, while smart filters help you find themes, features, and mechanics quickly. For a true venue feel, we grow our live casino with lively tables and interactive shows where every bet feels like an event. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2533",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We run regular game events—tournaments, races, challenges, and seasonal marathons—that add momentum and boost your chances at bigger prizes. New players can start with a welcome package designed to stretch your bankroll and deliver bonus value on popular titles. For active members, daily missions, quests, and special offers turn routine play into extra rewards. We also bring entertainment-forward campaigns, including themed weeks with curated games, prize boosts, and surprise drops. Our bonus programs focus on clarity, so you know how rewards are earned and how they work in play. For returning players, our loyalty experience turns activity into status, unlocking stronger perks, gifts, and personalised offers. We support convenient deposit and withdrawal options to keep your experience smooth from start to finish. Our support team stays close to help with accounts, payments, and promotions whenever you need it. We also promote responsible play with control tools that help keep entertainment balanced. The result is a complete experience where fun, bonuses, and winning opportunities come together in one polished destination.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Visiting Rules & Responsible Play: how it works at our casino",
+                        "description": "<p>\nOur casino follows clear rules designed to keep gameplay fair and the experience comfortable for everyone. Access to games is available after account registration and basic detail verification. We ask you to provide accurate information so withdrawals can be processed smoothly. An age requirement applies across the account play area, and we follow responsible gambling standards. We protect betting security and game integrity through controlled access and monitored systems. Any attempt to cheat, interfere with gameplay, or use prohibited tools is stopped. We encourage respectful communication in chat and when contacting support. Promotions and bonuses are available when each offer’s terms are followed. We recommend setting limits and taking breaks so play stays entertainment-first. If you feel you’re losing control, we provide self-control tools, including time-out and self-exclusion options.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccount registration: create a profile and confirm contact details\n<\/li>\n            <li>• \nVerification: ID checks when needed to protect withdrawals\n\n<\/li>\n            <li>• \nBonus access: follow promo terms and use offers correctly\n\n<\/li>\n            <li>• \nFair play: comply with betting rules and offer restrictions\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts and attempts to bypass restrictions\n\n<\/li>\n            <li>• \nBots, scripts, third-party interference, or manipulation\n\n<\/li>\n            <li>• \nUnauthorised use of someone else’s payment details\n\n<\/li>\n            <li>• \nAbuse, threats, or toxic behaviour in communications\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDeposit and wager limits: set daily\/weekly caps\n\n<\/li>\n            <li>• \nTime limits: manage session length with break reminders\n\n<\/li>\n            <li>• \nTime-out: request a temporary pause from play\n\n<\/li>\n            <li>• \nSelf-exclusion: longer account restriction to regain control\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing and data protection: security that can be trusted\n<\/h3>\n\n<p>\nWe operate within licensing frameworks and follow regulatory standards to deliver fair play and a protected environment for players. Our compliance model includes verification and control processes designed to prevent fraud, safeguard withdrawals, and maintain transparency. We support responsible gambling principles and provide tools that help you manage play in a balanced way. From registration through to financial transactions, our key flows are built to be predictable, secure, and player-friendly. We also refresh internal security practices regularly to stay aligned with modern industry expectations.\n\n<\/p>\n<br>\n<p>\nProtecting personal information starts with data minimisation: we only request what’s necessary for account creation, payments, and required checks. Data is handled under restricted-access principles, meaning only authorised systems and staff can access what’s needed for support or withdrawals. We apply role-based controls and segmentation to prevent unauthorised viewing or changes. Activity logging adds transparency and helps us detect suspicious behaviour quickly. Our goal is to keep you informed about what’s collected, why it’s used, and how you can manage your preferences.\n\n<\/p>\n<br>\n<p>\nWe use modern encryption for data in transit, covering account sign-in, payments, and support interactions. This helps prevent third-party interception and reduces risk when you’re online. Secure connection protocols and session authenticity checks are applied automatically. We also use protective measures against password guessing and unusual login attempts. Together, these layers make account access more resilient and strengthen financial transaction safety.\n\n<\/p>\n<br>\n<p>\nOur privacy approach is built on clarity and straightforward rules. We outline data categories, processing purposes, retention timeframes, and any lawful circumstances where sharing may occur to fulfil operations. We don’t use personal data against player interests; it’s used to run the service, protect security, and improve quality. You can request updates, ask questions about processing, or seek deletion where applicable. We also explain cookies and technical identifiers that support sign-in convenience, personalisation, and platform stability.\n\n<\/p>\n<br>\n<p>\nFinancial security is supported with transaction monitoring designed to spot irregular activity, prevent misuse, and protect legitimate players. Where needed, additional checks can streamline future payouts and increase account trust. We encourage strong, unique passwords for sign-in protection. Our aim is to make every deposit and withdrawal reliable, predictable, and protected with robust safeguards.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: fast replies and 24\/7 assistance\n<\/h3>\n\n<p>\nAt our casino, support is built to help you without delays. We respond quickly and clearly—covering registration, verification, bonuses, tournaments, and withdrawals. Our team aims to resolve most issues on the first contact so you can get back to play with minimal interruption. We assist with account settings, access recovery, payment status checks, and promo terms. Support can also guide you through limits, responsible play tools, and technical questions. We keep communication simple and provide step-by-step instructions whenever needed. During peak times, we maintain service quality through smart queue handling and prioritisation for urgent cases. If a request needs deeper review, we set expectations and keep you updated. We offer multiple contact options so you can choose what suits you best. We also improve self-help resources with quick tips and common answers.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fastest option for bonuses, bets, and payout status\n\n<\/li>\n            <li>• \nEmail: ideal for documents, verification, and detailed requests\n\n<\/li>\n            <li>• \nPhone: for quick guidance and complex situations\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: typically 1–3 minutes to first reply, with support through to resolution\n\n<\/li>\n            <li>• \nEmail: typically 2–12 hours depending on complexity\n\n<\/li>\n            <li>• \nPhone: quick connection during line hours, with ticket logging if required\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: full-service support and primary channel\n\n<\/li>\n            <li>• \nAdditional languages: help for key topics and popular requests\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Winnersbet",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program: more status, more bonuses, more winning power\n<\/h3>\n\n<p>\nOur loyalty program is designed so every session delivers real value alongside entertainment. You earn points through play across slots, table games, and live formats, then convert them into rewards. The more consistently you play, the higher your tier and the stronger your benefits. We keep tier progression clear—your progress, requirements, and upcoming rewards are visible in advance. Each level unlocks tailored gifts, special offers, and boosted earning rates. The program suits players who enjoy tournaments, jackpot hunting, and steady progression. We also run loyalty missions that help you climb tiers faster. Personalised bonuses are a core feature, aligned with your favourite games and betting style. You’ll see seasonal gifts and surprise drops tied to key activity moments. Participation is effortless—you play, and we credit value automatically. Higher status gives you quicker access to offers, premium rewards, and priority support experiences.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto-enrolment after account creation and first deposit\n\n<\/li>\n            <li>• \nPoints earned through wagering: slots, table games, live casino\n\n<\/li>\n            <li>• \nTier progress is calculated daily and displayed in your profile\n\n<\/li>\n            <li>• \nPoint-to-reward redemption is available in the “Loyalty” section\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: unlocks after first deposit — base earning plus a $10 starter gift\n\n<\/li>\n            <li>• \nSilver: from 2,000 points — weekly bonus up to $25 and +10% earning boost\n\n<\/li>\n            <li>• \nGold: from 10,000 points — monthly bonus up to $100 plus up to 50 FS\n\n<\/li>\n            <li>• \nPlatinum: from 30,000 points — personalised offers up to $200 and +25% earning boost\n\n<\/li>\n\t    <li>• \nVIP: invitation based on activity — gifts up to $500, expanded promo access, priority support\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and perks\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 10% of net losses for the period, credited as bonus funds\n\n<\/li>\n            <li>• \nFree spins: up to 100 FS per month on selected top slots by tier\n\n<\/li>\n            <li>• \nReload bonuses: up to 50% deposit boosts on selected days\n\n<\/li>\n            <li>• \nTournament boosts: extra points and event tickets for prize pools up to $50,000\n\n<\/li>\n\t    <li>• \nMilestone gifts: bonuses and FS for holidays and account anniversaries\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Special Offers: more play, more prizes, more momentum\n<\/h3>\n\n<p>\nAt our casino, bonuses are part of the experience—not a rare occasion. We consistently launch offers that boost your bankroll, add free spins, and unlock prize-driven events. New players can start with a welcome package designed to deliver extra value from day one. Active players benefit from daily promos that keep gameplay exciting and help you explore fresh releases. We run tournaments and races where results reward both luck and consistent performance. Seasonal events are a major highlight, featuring themed weeks, holiday marathons, and special draws. These campaigns often include enhanced rewards, surprise drops, and extra missions. We also support live formats with selected-table offers and game-show promos. Beyond classic slots, we bring entertainment-style challenges, quests, and collectible mechanics. Each offer comes with clear terms so you can understand the value upfront. Our goal is simple: give you a reason to log in, play, and chase a bigger result—any day of the week.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and promos\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Pack: 100% up to $200 + 100 FS — a stronger start on popular slots\n\n<\/li>\n            <li>• \nDaily Drops: daily prizes up to $5,000 — rewards for activity in selected games\n\n<\/li>\n            <li>• \nReload Bonus: up to 50% deposit boost — bankroll support on promo days\n\n<\/li>\n            <li>• \nFree Spins Fridays: up to 50 FS — weekly spins on featured new releases\n\n<\/li>\n\t    <li>• \nSlot Tournaments: prize pools up to $50,000 — compete on points and multipliers\n\n<\/li>\n\t    <li>• \nJackpot Weeks: jackpots up to $1,000,000+ — themed weeks focused on progressives\n\n<\/li>\n\t    <li>• \nLive Cashback: up to 10% — partial loss return for live casino play\n\n<\/li>\n\t    <li>• \nSeasonal Marathons: prizes up to $100,000 — holiday and special-event marathons\n\n<\/li>\n\t    <li>• \nMission Challenges: bonuses up to $200 — multi-step tasks with milestone rewards\n\n<\/li>\n\t    <li>• \nSurprise Spins: surprise FS drops — timed rewards during peak activity windows\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular games at our casino: favourites, classics, and live thrills\n<\/h3>\n\n<p>\nAt our casino, we focus on games loved for pace, clear rules, and strong winning potential. Slots are a top pick for players who enjoy bonus rounds, free spins, multipliers, and modern features. Table games suit those who prefer strategy and wager control, while live formats bring the energy of a real casino floor. We cater to different play styles—from quick sessions to longer marathons with missions and progress. Our slots include classic reels as well as video slots with cascades and megaways-style mechanics. For big-payout fans, jackpot games and prize events add extra excitement. Live casino delivers interactive tables and show-style experiences where decisions feel immediate and engaging. We refresh the library regularly so new releases sit alongside proven hits. Smart filters help you browse by volatility, provider, features, and themes. And for competitive players, we place key games into tournament line-ups so you can win through spins and leaderboards alike.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick snapshots of popular categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFree-spins slots: bonus rounds, multipliers, re-spins, and big streak potential\n\n<\/li>\n            <li>• \nJackpot slots: a shot at major payouts, including progressive prize features\n\n<\/li>\n            <li>• \nRoulette: classic variants with fast rounds and flexible betting limits\n\n<\/li>\n            <li>• \nBlackjack: strategy-led play across multiple table styles and speeds\n\n<\/li>\n\n\t    <li>• \nBaccarat: simple rules, quick decisions, and smooth pacing\n\n<\/li>\n\t    <li>• \nVideo poker: a blend of strategy and luck with frequent outcome cycles\n\n<\/li>\n\t    <li>• \nLive roulette: dealer-led action with an authentic casino feel\n\n<\/li>\n\t    <li>• \nLive blackjack: real-time interaction, table choice, and immersive play\n\n<\/li>\n\t    <li>• \nGame shows: interactive formats with bold bonuses and rapid results\n\n<\/li>\n\t    <li>• \neSports\/Event betting: extra adrenaline for players who love predictions and action\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum bets: flexible limits for every strategy\n<\/h3>\n\n<p> \nAt our casino, we offer a broad betting range to suit both new players and seasoned high rollers. You can start small to explore games and strategies, then scale up as your confidence grows. Table games and live formats give you control over pace and risk, while slots make it easy to match your preferred volatility. Here are practical bet-limit benchmarks across our key categories.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #D6BE0A;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (standard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (high limits)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$3,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$20,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals and payout speed: fast, clear, and convenient\n<\/h3>\n\n<p>\nAt our casino, withdrawals are designed to help you receive winnings with maximum ease. We support popular payment methods and keep the flow straightforward: submit a request, we process it, and funds are sent via your chosen option. Payout speed depends on the method and your verification status, so we recommend completing your profile early and keeping documents ready to accelerate approvals. Withdrawal requests are handled in order, with transactions that don’t require extra checks typically moving faster. You’ll see clear status updates inside your account so you always know what stage your payout is in. For security, we monitor transactions to protect your balance and prevent unauthorised activity. We also support consistent withdrawal paths—often aligning payouts with your deposit method—so everything stays tidy and controlled. Tournament and promotional winnings are credited according to each event’s rules, with timeframes outlined in advance. Withdrawal limits are transparent so you can plan bankroll management confidently. If you have questions about a request, support can quickly review the details and guide your next step.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer: reliable for larger amounts\n\n<\/li>\n            <li>• \nCards (Visa\/Mastercard): convenient when you’ve deposited by card\n\n<\/li>\n            <li>• \nE-wallets: fast payouts with simple transaction tracking\n\n<\/li>\n            <li>• \nLocal payment options: comfortable choices for regular activity\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout processing timeframes\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInternal approval: typically 0–24 hours\n\n<\/li>\n            <li>• \nE-wallets: often same-day after approval or within 24 hours\n\n<\/li>\n            <li>• \nCards: typically 1–3 business days depending on your bank\n\n<\/li>\n            <li>• \nBank transfers: typically 1–5 business days depending on banking procedures\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMonthly cap: up to $7,000 per account\n\n<\/li>\n            <li>• \nPer-transaction limits: vary by method and verification level\n\n<\/li>\n            <li>• \nTournament prizes: paid under event rules with clear crediting windows\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I recover access if I forget my password?",
+                            "answer": "Use the password recovery option. We’ll send steps to your email, and support can help verify your account and restore access securely if needed.\n\n\n"
+                        },
+                        {
+                            "title": "What if my bonus doesn’t credit instantly?",
+                            "answer": "Check that the offer was activated before depositing and that requirements are met, then refresh the page. If needed, support will confirm and fix the crediting promptly.\n\n\n"
+                        },
+                        {
+                            "title": "How are game results generated?",
+                            "answer": "We rely on trusted game mechanics where outcomes are produced fairly and independently, backed by technical safeguards that protect each session.\n\n\n"
+                        },
+                        {
+                            "title": "Can I set personal limits before I start playing?",
+                            "answer": "Yes. You can configure deposit, wager, and session-time limits in your profile to lock in a comfortable play routine from the start.\n\n\n"
+                        },
+                        {
+                            "title": "Why is extra withdrawal verification sometimes needed?",
+                            "answer": "It’s a key security step that protects your account and payouts by confirming transactions and preventing unauthorised requests.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
